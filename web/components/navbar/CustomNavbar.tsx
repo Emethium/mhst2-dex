@@ -8,7 +8,7 @@ export default function CustomNavbar() {
 
   return (
     <div>
-      <Navbar color="light" light expand="md">
+      <Navbar color="dark" dark expand="md">
         <NavbarBrand href="/">mhst2-dex</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
