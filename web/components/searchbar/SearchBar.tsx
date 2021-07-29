@@ -53,7 +53,6 @@ function filterMonster(monster: Monster, searchData: Record<string, string>): bo
     return true;
   }
 
-  console.log(`${monster.name}: ${monster.regionFound.toLowerCase().includes(region?.toLowerCase())}`)
   return (
     (name ? monster.name.toLowerCase().includes(name?.toLowerCase()) : true)
     && (type ? monster.type.toLowerCase().includes(type?.toLowerCase()) : true)
