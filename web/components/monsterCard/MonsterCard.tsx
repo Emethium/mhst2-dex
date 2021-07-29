@@ -4,7 +4,7 @@ import { Monster } from '../../domain'
 
 export default function MonsterCard(props: Monster) {
   return (
-      <Card id={props.name}>
+      <Card id={props.name} key={props.id}>
         <CardBody>
           <Row>
             <Col>
