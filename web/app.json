@@ -3,8 +3,8 @@
     "config": "metro.config.js"
   },
   "expo": {
-    "name": "web",
-    "slug": "web",
+    "name": "mhst2-dex",
+    "slug": "mhst2-dex",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
