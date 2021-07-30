@@ -38,5 +38,669 @@
     "regionFound": "Lamure Tower Front",
     "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon15.png",
     "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_46.png"
+  },
+  {
+    "id": 6,
+    "name": "Astalos",
+    "type": "Technical",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon130.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_113.png"
+  },
+  {
+    "id": 7,
+    "name": "Azure Rathalos",
+    "type": "Power",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon59.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_6.png"
+  },
+  {
+    "id": 8,
+    "name": "Barioth",
+    "type": "Speed",
+    "regionFound": "Loloska Rocky",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon52.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_58.png"
+  },
+  {
+    "id": 9,
+    "name": "Barroth",
+    "type": "Speed",
+    "regionFound": "Loloska Rocky",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon27.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_56.png"
+  },
+  {
+    "id": 10,
+    "name": "Basarios",
+    "type": "Technical",
+    "regionFound": "Harzgai Rocky Hill",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon48.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_33.png"
+  },
+  {
+    "id": 11,
+    "name": "Bazelgeuse",
+    "type": "Speed",
+    "regionFound": "Forbidden Grounds",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon145.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_151.png"
+  },
+  {
+    "id": 12,
+    "name": "Black Diablos",
+    "type": "Power",
+    "regionFound": "Lamure Tower - 5F",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon42.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_26.png"
+  },
+  {
+    "id": 13,
+    "name": "Black Gravios",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon40.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_36.png"
+  },
+  {
+    "id": 14,
+    "name": "Bloodbath Diablos",
+    "type": "Speed",
+    "regionFound": "Jalma Highlands",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon115.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_119.png"
+  },
+  {
+    "id": 15,
+    "name": "Blue Yian Kut-Ku",
+    "type": "Technical",
+    "regionFound": "Alcala Valley",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon31.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_11.png"
+  },
+  {
+    "id": 16,
+    "name": "Brachydios",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon26.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_52.png"
+  },
+  {
+    "id": 17,
+    "name": "Brute Tigrex",
+    "type": "Power",
+    "regionFound": "Sadona Barrens",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon44.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_15.png"
+  },
+  {
+    "id": 18,
+    "name": "Bulldrome",
+    "type": "Power",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon9.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_55.png"
+  },
+  {
+    "id": 19,
+    "name": "Cephadrome",
+    "type": "Speed",
+    "regionFound": "Sadona Barrens",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon73.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_28.png"
+  },
+  {
+    "id": 20,
+    "name": "Congalala",
+    "type": "Technical",
+    "regionFound": "Loloska Forest",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon10.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_8.png"
+  },
+  {
+    "id": 21,
+    "name": "Crimson Qurupeco",
+    "type": "Technical",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon91.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_64.png"
+  },
+  {
+    "id": 22,
+    "name": "Deviljho",
+    "type": "Power",
+    "regionFound": "Forbidden Grounds",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon23.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_51.png"
+  },
+  {
+    "id": 23,
+    "name": "Diablos",
+    "type": "Power",
+    "regionFound": "Lamure Tower Front",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon41.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_25.png"
+  },
+  {
+    "id": 24,
+    "name": "Dreadqueen Rathian",
+    "type": "Speed",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon113.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_117.png"
+  },
+  {
+    "id": 25,
+    "name": "Elderfrost Gammoth",
+    "type": "Power",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon135.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_139.png"
+  },
+  {
+    "id": 26,
+    "name": "Emerald Congalala",
+    "type": "Technical",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon11.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_9.png"
+  },
+  {
+    "id": 27,
+    "name": "Fulgur Anjanath",
+    "type": "Power",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon137.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_141.png"
+  },
+  {
+    "id": 28,
+    "name": "Gammoth",
+    "type": "Power",
+    "regionFound": "Woodland",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon134.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_138.png"
+  },
+  {
+    "id": 29,
+    "name": "Gendrome",
+    "type": "Speed",
+    "regionFound": "Lamure Tower - 3F",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon35.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_27.png"
+  },
+  {
+    "id": 30,
+    "name": "Glavenus",
+    "type": "Power",
+    "regionFound": "Alcala Valley",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon110.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_81.png"
+  },
+  {
+    "id": 31,
+    "name": "Gravios",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon39.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_35.png"
+  },
+  {
+    "id": 32,
+    "name": "Great Baggi",
+    "type": "Speed",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon37.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_44.png"
+  },
+  {
+    "id": 33,
+    "name": "Great Jaggi",
+    "type": "Technical",
+    "regionFound": "Alcala Highlands",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon36.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_43.png"
+  },
+  {
+    "id": 34,
+    "name": "Green Nargacuga",
+    "type": "Speed",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon47.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_22.png"
+  },
+  {
+    "id": 35,
+    "name": "Grimclaw Tigrex",
+    "type": "Power",
+    "regionFound": "Alcala Valley",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon118.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_121.png"
+  },
+  {
+    "id": 36,
+    "name": "Gypceros",
+    "type": "Power",
+    "regionFound": "Loloska Forest",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon32.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_31.png"
+  },
+  {
+    "id": 37,
+    "name": "Iodrome",
+    "type": "Speed",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon34.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_13.png"
+  },
+  {
+    "id": 38,
+    "name": "Ivory Lagiacrus",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon4.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_66.png"
+  },
+  {
+    "id": 39,
+    "name": "Jade Barroth",
+    "type": "Power",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon28.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_57.png"
+  },
+  {
+    "id": 40,
+    "name": "Kecha Wacha",
+    "type": "Technical",
+    "regionFound": "Loloska Forest",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon14.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_45.png"
+  },
+  {
+    "id": 41,
+    "name": "Khezu",
+    "type": "Technical",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon50.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_23.png"
+  },
+  {
+    "id": 42,
+    "name": "Kirin",
+    "type": "Speed",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon61.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_49.png"
+  },
+  {
+    "id": 43,
+    "name": "Kulu-Ya-Ku",
+    "type": "Technical",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon141.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_144.png"
+  },
+  {
+    "id": 44,
+    "name": "Kushala Daora",
+    "type": "Technical",
+    "regionFound": "Etulle Lofty Trees",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon63.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_85.png"
+  },
+  {
+    "id": 45,
+    "name": "Lagiacrus",
+    "type": "Power",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon3.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_65.png"
+  },
+  {
+    "id": 46,
+    "name": "Lagombi",
+    "type": "Speed",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon8.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_19.png"
+  },
+  {
+    "id": 47,
+    "name": "Legiana",
+    "type": "Speed",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon154.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_149.png"
+  },
+  {
+    "id": 48,
+    "name": "Mizutsune",
+    "type": "Technical",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon132.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_112.png"
+  },
+  {
+    "id": 49,
+    "name": "Monoblos",
+    "type": "Power",
+    "regionFound": "Harzgai Hill - Inner",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon54.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_39.png"
+  },
+  {
+    "id": 50,
+    "name": "Nargacuga",
+    "type": "Speed",
+    "regionFound": "Alcala Highlands",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon46.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_21.png"
+  },
+  {
+    "id": 51,
+    "name": "Nergigante",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon140.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_111.png"
+  },
+  {
+    "id": 52,
+    "name": "Nerscylla",
+    "type": "Technical",
+    "regionFound": "Loloska Forest",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon66.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_47.png"
+  },
+  {
+    "id": 53,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon167.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_178.png"
+  },
+  {
+    "id": 54,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon179.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_179.png"
+  },
+  {
+    "id": 55,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon169.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_176.png"
+  },
+  {
+    "id": 56,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon178.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_180.png"
+  },
+  {
+    "id": 57,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon168.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_177.png"
+  },
+  {
+    "id": 58,
+    "name": "Palamute",
+    "type": "Speed",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon177.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_181.png"
+  },
+  {
+    "id": 59,
+    "name": "Paolomu",
+    "type": "Technical",
+    "regionFound": "Wendwood",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon142.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_147.png"
+  },
+  {
+    "id": 60,
+    "name": "Pink Rathian",
+    "type": "Speed",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon56.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_3.png"
+  },
+  {
+    "id": 61,
+    "name": "Popo",
+    "type": "Power",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon74.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_41.png"
+  },
+  {
+    "id": 62,
+    "name": "Pukei-Pukei",
+    "type": "Technical",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon138.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_110.png"
+  },
+  {
+    "id": 63,
+    "name": "Purple Gypceros",
+    "type": "Power",
+    "regionFound": "Lamure Tower Front",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon33.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_32.png"
+  },
+  {
+    "id": 64,
+    "name": "Purple Ludroth",
+    "type": "Power",
+    "regionFound": "Sadona Barrens",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon6.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_30.png"
+  },
+  {
+    "id": 65,
+    "name": "Qurupeco",
+    "type": "Technical",
+    "regionFound": "Etulle Lofty Trees",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon90.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_63.png"
+  },
+  {
+    "id": 66,
+    "name": "Rajang",
+    "type": "Power",
+    "regionFound": "None",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon12.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_84.png"
+  },
+  {
+    "id": 67,
+    "name": "Rathalos",
+    "type": "Power",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon58.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_5.png"
+  },
+  {
+    "id": 68,
+    "name": "Rathian",
+    "type": "Speed",
+    "regionFound": "Alcala Highlands",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon55.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_2.png"
+  },
+  {
+    "id": 69,
+    "name": "Red Khezu",
+    "type": "Technical",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon51.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_24.png"
+  },
+  {
+    "id": 70,
+    "name": "Royal Ludroth",
+    "type": "Power",
+    "regionFound": "Alcala Valley",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon5.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_29.png"
+  },
+  {
+    "id": 71,
+    "name": "Ruby Basarios",
+    "type": "Technical",
+    "regionFound": "Pomore Garden",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon49.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_34.png"
+  },
+  {
+    "id": 72,
+    "name": "Sand Barioth",
+    "type": "Speed",
+    "regionFound": "Forbidden Grounds",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon53.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_59.png"
+  },
+  {
+    "id": 73,
+    "name": "Seregios",
+    "type": "Technical",
+    "regionFound": "Forbidden Grounds",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon68.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_38.png"
+  },
+  {
+    "id": 74,
+    "name": "Shrouded Nerscylla",
+    "type": "Technical",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon67.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_48.png"
+  },
+  {
+    "id": 75,
+    "name": "Silverwind Nargacuga",
+    "type": "Speed",
+    "regionFound": "East Kamuna Heights",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon120.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_123.png"
+  },
+  {
+    "id": 76,
+    "name": "Stygian Zinogre",
+    "type": "Technical",
+    "regionFound": "Forbidden Grounds",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon17.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_54.png"
+  },
+  {
+    "id": 77,
+    "name": "Teostra",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon64.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_86.png"
+  },
+  {
+    "id": 78,
+    "name": "Thunderlord Zinogre",
+    "type": "Power",
+    "regionFound": "Loloska Rocky Canyon",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon124.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_128.png"
+  },
+  {
+    "id": 79,
+    "name": "Tigrex",
+    "type": "Speed",
+    "regionFound": "Harzgai Hill - Inner",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon43.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_14.png"
+  },
+  {
+    "id": 80,
+    "name": "Tobi-Kadachi",
+    "type": "Speed",
+    "regionFound": "Loloska Rocky Canyon",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon148.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_145.png"
+  },
+  {
+    "id": 81,
+    "name": "Uragaan",
+    "type": "Power",
+    "regionFound": "Terga Volcano Base",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon24.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_60.png"
+  },
+  {
+    "id": 82,
+    "name": "Velkhana",
+    "type": "Technical",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon146.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_153.png"
+  },
+  {
+    "id": 83,
+    "name": "Velocidrome",
+    "type": "Speed",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon38.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_1.png"
+  },
+  {
+    "id": 84,
+    "name": "White Monobloes",
+    "type": "Power",
+    "regionFound": "Jalma Highlands",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon99.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_40.png"
+  },
+  {
+    "id": 85,
+    "name": "Yian Garuga",
+    "type": "Technical",
+    "regionFound": "Alcala Valley",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon29.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_37.png"
+  },
+  {
+    "id": 86,
+    "name": "Yian Kut-Ku",
+    "type": "Technical",
+    "regionFound": "North Kamuna Cape",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon30.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_10.png"
+  },
+  {
+    "id": 87,
+    "name": "Zamtrios",
+    "type": "Technical",
+    "regionFound": "Base of Mt. Lavina",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon69.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_62.png"
+  },
+  {
+    "id": 88,
+    "name": "Zinogre",
+    "type": "Speed",
+    "regionFound": "Lavina Glacial Peaks",
+    "portraitURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/micons/micon16.png",
+    "eggURL": "https://cdn.kiranico.net/file/kiranico/mhstories-web/eggs/buddy_53.png"
   }
 ]

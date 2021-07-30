@@ -26,7 +26,7 @@ function handleSearch(event: any, monsters: Monster[], setter: any): void {
   const searchData = generateSearchDataFromInput(searchValue);
 
   const result = monsters.filter((monster) => filterMonster(monster, searchData))
-  console.log(result)
+
   setter(result)
 }
 
