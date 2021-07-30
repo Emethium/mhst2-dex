@@ -1,6 +1,6 @@
 // Dependencies
 import React, { useState } from "react";
-import { Alert, Container } from "reactstrap";
+import { Alert, Container, Row } from "reactstrap";
 
 // Local imports
 import CustomNavbar from "./components/navbar/CustomNavbar";
@@ -15,12 +15,12 @@ export default function App() {
 
   return (
     <div>
-      <div>
+      <Row>
         <CustomNavbar />
         <Alert color="warning">
           This is still a work in progress, do not take this too seriously
         </Alert>
-      </div>
+      </Row>
 
       <Container>
         <SearchBar monsters={monsters} setFilteredMonsters={setFilteredMonsters} />
@@ -28,7 +28,7 @@ export default function App() {
 
       <Container>
         {
-          filteredMonsters.map((monster) => <MonsterCard {...monster} />)
+          filteredMonsters.map((monster) => <MonsterCard {...monster} key={monster.id} />)
         }
       </Container>
     </div>
